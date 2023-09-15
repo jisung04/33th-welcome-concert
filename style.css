@@ -2243,6 +2243,7 @@ body {
       height: 0; }
     /* line 10, sass/pages/_homepage.scss */
     .slider .slides li {
+      background-position: center center;
       margin-right: -100%;
       width: 100%;
       float: left;
