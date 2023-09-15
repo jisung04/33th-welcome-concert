@@ -35,7 +35,7 @@
 		eventCarousel.owlCarousel({
  
 			autoPlay: 3000, //Set AutoPlay to 3 seconds
-			rewindNav: false,
+			rewindNav: true,
 			items : 4,
 			itemsDesktop : [1199,3],
 			itemsDesktopSmall : [979,3]
