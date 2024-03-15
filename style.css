@@ -2323,8 +2323,8 @@ body {
       /* line 78, sass/pages/_homepage.scss */
       .slider .flex-control-nav li a {
         display: block;
-        width: 15px;
-        height: 15px;
+        width: 10px;
+        height: 10px;
         background: url(images/pagination.png) no-repeat 0 0;
         text-indent: -99999px;
         cursor: pointer; }
