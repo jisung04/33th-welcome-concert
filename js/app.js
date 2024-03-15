@@ -34,7 +34,7 @@
 		var eventCarousel = $(".event-carousel");
 		eventCarousel.owlCarousel({
  
-			autoPlay: 3000, //Set AutoPlay to 3 seconds
+			autoPlay: 3500, //Set AutoPlay to 3 seconds
 			rewindNav: true,
 			items : 4,
 			itemsDesktop : [1199,3],
