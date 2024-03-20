@@ -323,7 +323,7 @@ body {
     .button.cut-corner:hover {
       background: -webkit-linear-gradient(90deg, #fd805a, #fd805a) top left, -webkit-linear-gradient(90deg, #fd805a, #fd805a) top right, -webkit-linear-gradient(135deg, transparent 10px, #fd805a 0) bottom right, -webkit-linear-gradient(90deg, #fd805a, #fd805a) bottom left;
       background: linear-gradient(0deg, #fd805a, #fd805a) top left, linear-gradient(0deg, #fd805a, #fd805a) top right, linear-gradient(315deg, transparent 10px, #fd805a 0) bottom right, linear-gradient(0deg, #fd805a, #fd805a) bottom left;
-      background-size: 55% 55%;
+      background-size: 100% 100%;
       background-repeat: no-repeat; }
     /* line 50, sass/libs/_component.scss */
     .button.cut-corner:active {
