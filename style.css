@@ -2258,7 +2258,7 @@ body {
     .slider .slides .slide-title {
       margin: 1;
       color: white;
-      font-size: 65px;
+      font-size: 50px;
       font-size: 5.625em;
       font-weight: 900;
       line-height: 1;
@@ -2288,7 +2288,7 @@ body {
     /* line 46, sass/pages/_homepage.scss */
     .slider .slides .slide-desc {
       font-family: 'youth';
-      font-size: 13px;
+      font-size: 10px;
       font-size: 1.875em;
       font-weight: 300;
       line-height: normal;
